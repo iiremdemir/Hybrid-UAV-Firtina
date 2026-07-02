@@ -12,7 +12,7 @@ The complete engineering final report is available as: `Fırtına_UAV_Project.pd
 
 Click below to watch the hybrid UAV system in action, demonstrating its flight routines, ground vehicle conversion, and embedded data streaming operations:
 
-[![Watch the Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=33fLI3wTVqc))
+[![Watch the Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=33fLI3wTVqc)
 
 ---
 
